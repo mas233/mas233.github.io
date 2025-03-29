@@ -16,7 +16,7 @@ order: 4
 
 
 # Languages I speak
-- `Mandarin`, Chinese(Main Language)
+- `Chinese Mandarin`(Main Language)
 - `English`
 - `Java`(Main Language Too)
 - `C`
