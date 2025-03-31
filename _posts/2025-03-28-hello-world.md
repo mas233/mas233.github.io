@@ -1,6 +1,7 @@
 ---
 title: "First Post"
 date: 2025-03-28 00:00:00
+description: "Hello World!"
 author: mas
 categories: [Micellaneous]
 tags: []
