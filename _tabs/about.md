@@ -9,8 +9,8 @@ order: 4
 <div id="eng"></div>
 
 # About Mas
-- 🧑‍🎓Undergraduate of Software Institute, Nanjing University(2021~NOW)
-- 🧑‍🎓Graduate of Software Institute, Nanjing University(expected 2025~2027)
+- 🧑‍🎓Undergraduate of Software Institute, Nanjing University(2021~2025)
+- 🧑‍🎓Graduate of Software Institute, Nanjing University(2025~2027)
 - 📚Undergraduate Major: Software Engineering
 - 📖Courses taken:  <br>
     `Software Engineering`, `Data Structure and Algorithm`, `Computer Organization and System Architecture`, `Internet Based Computing`, `Computer Operating Systems`, `Database Management`, `Compilers`, `Server-side Development`,`Software System Design`, ...
@@ -21,7 +21,7 @@ order: 4
 - `English`
 - `Java`(Main Language Too)
 - `C`
-- Not so familiar but tried: `python`, `C++`, `JavaScript`, `asm`, `Japanese(日本語)`
+- Not so familiar but tried: `python`, `C++`, `JavaScript`, `Rust`, `asm`, `Japanese(日本語)`
 > 🍡よろしくお願いいたします。
 
 # Interests
@@ -36,7 +36,7 @@ order: 4
 
 # 关于站主
 - 🧑‍🎓南京大学软件学院2021级本科生
-- 🧑‍🎓南京大学软件学院2025级研究生（预推免）
+- 🧑‍🎓南京大学软件学院2025级研究生
 - 📚本科专业：软件工程
 - 📖已修课程: <br>
     `软件工程`, `数据结构与算法`, `计算机组织结构`, `互联网计算`, `计算机操作系统`, `数据库管理`, `编译原理`, `服务端开发`,`软件系统设计`, ...
