@@ -15,7 +15,7 @@ GPT: **Generative Pretrained Transformer**
 
 ## 预训练
 GPT到ChatGPT是从自监督学习到监督学习的成果。自监督学习过程被称为预训练，训练出的模型称作基石模型。例如，从“世界第一高峰是喜马拉雅山”中训练出能够在“世界第一高峰是”后面猜出“喜马拉雅山”的训练过程。
-![alt text](assets/img/post-imgs/25-10-20-ml#1/pretrain1.png)
+![alt text](assets/img/post-imgs/25-10-20-ml-1/pretrain1.png)
 
 Multi-BERT在多种语言上做预训练后，只需要教某一个语言的某个任务，就可以自动学会其它语言的同样任务。
 
